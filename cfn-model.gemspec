@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   s.name          = 'cfn-model'
   s.license       = 'MIT'
-  s.version       = '9.9.9'
+  s.version       = '0.6.10'
   s.executables   = %w(cfn_parse)
   s.authors       = ['Eric Kascic']
   s.summary       = 'cfn-model'
